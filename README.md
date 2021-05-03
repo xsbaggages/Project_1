@@ -1,5 +1,8 @@
 # Project 1 - Unemployment in Australia 2020 
 
+![COVID](Outputs/Project_Image/COVID.png)
+
+
 An analysis of the unemployment rates in Australia in 2020. Our hypothesis is that the COVID-19 pandemic will have impacted the unemployement rates in Australia. We were interested to see what effects that COVID had, and how it may have impacted different states.
 
 
@@ -10,14 +13,16 @@ Project_1
 |
 __P1_final.ipynb      # Jupyter Notebook of Code 
 |
+__Project1.pptx       # PowerPoint Prsentation
+|
 __Proposal/
-         |_           # txt of our initial proposal 
+            |_        # txt of our initial proposal 
 |
 __Outputs/
-
-         |_           #png files of graphs 
-|__Source/
-         |_           #csv files of datasets 
+            |_        #png files of graphs 
+|
+__Source/
+            |_        #csv files of datasets 
 
 ```
 
@@ -46,8 +51,8 @@ Questions we had before we began our analysis:
 
 # Analysis 
 
-1. Was there an increase or decrease in unemployment?
-\n
+1. Was there an increase or decrease in unemployment?\
+
 We can see that there was an increase in unemployment in 2020
 ![Unemployment in 2019 vs 2020](Outputs/Unemployment_in_2019_vs_2020.png)
 
@@ -89,9 +94,9 @@ We can see the impacts of COVID-19 and Unemployment in Victoria and WA
 
 # Contributers 
 
-Helen Amin 
-Heriawan Muhamad 
-Samantha Van Wyngaarden 
+Helen Amin\
+Heriawan Muhamad\
+Samantha Van Wyngaarden\
 Stephanie Salvona 
 
 
