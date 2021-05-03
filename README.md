@@ -18,10 +18,9 @@ this is code
 
 Questions we had before we began our analysis:
 1. Was there an increase or decrease in unemployment? 
-2. How was unemployment impacted per state?
-3. What may have caused these impacts?
-4. What groups were most affected? 
-5. How did the pandemic impact unemployment in each state? 
+2. How was unemployment impacted between WA amd VIC?
+3. Was there a correlation between infection rates and unemployment in 2020? 
+
 
 
 # Datasets 
@@ -35,7 +34,11 @@ Questions we had before we began our analysis:
 
 # Analysis 
 
-![a chart](path)
+1. Was there an increase or decrease in unemployment? 
+/n
+We can see that there was an increase in unemployment in 2020
+![Unemployment in 2019 vs 2020]('Outputs/Unemployment in 2019 vs 2020.png')
+
 
 
 # Contributers 
