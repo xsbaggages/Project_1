@@ -1,6 +1,6 @@
 # Project 1 - Unemployment in Australia 2020 
 
-![COVID](Project_Image/COVID.JPG)
+![COVID](Project_Image/COVID.png)
 
 
 An analysis of the unemployment rates in Australia in 2020. Our hypothesis is that the COVID-19 pandemic will have impacted the unemployement rates in Australia. We were interested to see what effects COVID had, and how it may have impacted different states.
