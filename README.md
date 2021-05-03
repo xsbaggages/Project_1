@@ -6,13 +6,25 @@ An analysis of the unemployment rates in Australia in 2020. Our hypothesis is th
 # Project Structure 
 
 ```
-this is code 
+Project_1 
+|
+__P1_final.ipynb      # Jupyter Notebook of Code 
+|
+__Proposal/
+         |_           # txt of our initial proposal 
+|
+__Outputs/
+
+         |_           #png files of graphs 
+|__Source/
+         |_           #csv files of datasets 
+
 ```
 
 
 # Usage 
 
-
+Not sure what we put here 
 
 # Questions 
 
@@ -34,11 +46,45 @@ Questions we had before we began our analysis:
 
 # Analysis 
 
-1. Was there an increase or decrease in unemployment? 
-/n
+1. Was there an increase or decrease in unemployment?
+\n
 We can see that there was an increase in unemployment in 2020
-![Unemployment in 2019 vs 2020]('Outputs/Unemployment in 2019 vs 2020.png')
+![Unemployment in 2019 vs 2020](Outputs/Unemployment_in_2019_vs_2020.png)
 
+2. How was unemployment impacted between WA amd VIC?
+
+We can see that VIC had the largest % of COVID cases in Australia 
+![COVID State](Outputs/COVID_by_State_pie.png)
+
+We can see the impacts of COVID-19 and Unemployment in Victoria and WA 
+![VIC_and_WA_Unemployment_and_COVID-19_Study](Outputs/VIC_and_WA_Unemployment_and_COVID-19_Study.png)
+
+![VIC_COVID_vs_WA_COVID_Study](Outputs/VIC_COVID_vs_WA_COVID_Study.png)
+
+
+![VIC_Unemployed_vs_WA_Unemployed](Outputs/VIC_Unemployed_vs_WA_Unemployed.png)
+
+
+![VIC_Unemployed_vs_VIC_COVID-19.](Outputs/VIC_Unemployed_vs_VIC_COVID-19.png)
+
+
+![WA_Unemployed_vs_WA_COVID-19](Outputs/WA_Unemployed_vs_WA_COVID-19.png)
+
+
+
+![Unemployment_vs_Australia_COVID-19](Outputs/Unemployment_vs_Australia_COVID-19.png)
+
+![VIC_Job_Vacancies_vs_VIC_COVID-19_cases_Study](Outputs/VIC_Job_Vacancies_vs_VIC_COVID-19_cases_Study.png)
+
+![VIC_Job_Vacancies_vs_WA_Job_Vacancies_Study](Outputs/VIC_Job_Vacancies_vs_WA_Job_Vacancies_Study.png)
+
+![VIC_Job_CovidCase_vs_WA_Job_CovidCase_Study](Outputs/VIC_Job_CovidCase_vs_WA_Job_CovidCase_Study.png)
+
+![Job_vacancies_vs_VIC_COVID-19_correlation](Outputs/Job_vacancies_vs_VIC_COVID-19_correlation.png)
+
+![Job_vacancies_vs_WA_COVID-19_correlation](Outputs/Job_vacancies_vs_WA_COVID-19_correlation.png)
+
+![Job_vacancies_vs_Total_COVID-19_correlation](Outputs/Job_vacancies_vs_Total_COVID-19_correlation.png)
 
 
 # Contributers 
