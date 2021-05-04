@@ -76,7 +76,7 @@ This graph shows the infection rate in Australia vs Unemployment for Australia. 
 We can see the comparison of COVID-19 vs Unemployment in Victoria and WA. The change in unemployment is not as significant as we expected it to be. Reasons could be that Job Keepers was available to impacted businesses, people working from home, or that the media exaggerated the impacts. We used a logarithmic scale on this graph to compress the scale and make the data easier to comprehend.       
 ![VIC_and_WA_Unemployment_and_COVID-19_Study](Outputs/VIC_and_WA_Unemployment_and_COVID-19_Study.png)
 
-The below graph shows the correlation between unemployment numbers in Australia vs the COVID-19 infection. As we can see there is a correlation, however it is only 0.35, so there may have been other factors which inpacted unemployment in Austrlia in 2020. 
+The below graph shows the correlation between unemployment numbers in Australia vs the COVID-19 infection. As we can see there is a correlation, however it is only 0.35, so there may have been other factors which inpacted unemployment in Austrlia in 2020. The P value was > 0.05 and so we cannot reject the null hypothesis.
 
 ![Unemployment_vs_Australia_COVID-19](Outputs/Unemployment_vs_Australia_COVID-19.png)
 
@@ -84,12 +84,12 @@ We wanted to look into job vacancies vs COVID-19 infection numbers to see if the
 
 ![VIC_Job_Vacancies_vs_VIC_COVID-19_cases_Study](Outputs/VIC_Job_Vacancies_vs_VIC_COVID-19_cases_Study.png)
 
-The correlation between job vacancies in Australia and COVID-19 is 0.06. This suggests that there is no correlation between job vacancies and the pandemic.         
+The correlation between job vacancies in Australia and COVID-19 is 0.06 and the p value was > 0.05. This suggests that there is no correlation between job vacancies and the pandemic.         
 ![Job_vacancies_vs_Total_COVID-19_correlation](Outputs/Job_vacancies_vs_Total_COVID-19_correlation.png)
 
 # Conclusions and Further Study 
 
-1. There is a correlation between unemployment and COVID infection rates, however it is 0.35 and is not as strong as we expected when we began our analysis. Investigating deeper using p-value, the amount of p-value greater than threshold( 0.05 ) indicates strong evidence for the null hypothesis.
+1. There is a correlation between unemployment and COVID infection rates, however it is 0.35 and is not as strong as we expected when we began our analysis. 
 2. There was limited COVID-19 raw data available for us to analyse. As more information becomes available, there could be more datasets available for furhter study. We would like to continue our research into how different industries were impacted by the pandemic. 
 
 # Contributers 
