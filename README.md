@@ -76,11 +76,7 @@ This graph shows the infection rate in Australia vs Unemployment for Australia. 
 We can see the comparison of COVID-19 vs Unemployment in Victoria and WA. The change in unemployment is not as significant as we expected it to be. Reasons could be that Job Keepers was available to impacted businesses, people working from home, or that the media exaggerated the impacts. We used a logarithmic scale on this graph to compress the scale and make the data easier to comprehend.       
 ![VIC_and_WA_Unemployment_and_COVID-19_Study](Outputs/VIC_and_WA_Unemployment_and_COVID-19_Study.png)
 
-<<<<<<< HEAD
-The below graph shows the correlation between unemployment numbers in Australia vs the COVID-19 infection. The correlation was only 0.35, so there may have been other factors which impacted unemployment in Austrlia in 2020. The P value was > 0.05 and so we cannot reject the null hypothesis. 
-=======
 The below graph shows the correlation between unemployment numbers in Australia vs the COVID-19 infection. As we can see there is a correlation, however it is only 0.35, so there may have been other factors which inpacted unemployment in Austrlia in 2020. The P value was > 0.05 and so we cannot reject the null hypothesis.
->>>>>>> 6c51f9d4be70f423d6c413a09ffed3c854450a1d
 
 ![Unemployment_vs_Australia_COVID-19](Outputs/Unemployment_vs_Australia_COVID-19.png)
 
