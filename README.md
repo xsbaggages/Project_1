@@ -89,7 +89,7 @@ The correlation between job vacancies in Australia and COVID-19 is 0.06. This su
 
 # Conclusions and Further Study 
 
-1. There is a correlation between unemployment and COVID infection rates, however it is 0.35 and is not as strong as we expected when we began our analysis. 
+1. There is a correlation between unemployment and COVID infection rates, however it is 0.35 and is not as strong as we expected when we began our analysis. Investigating deeper using p-value, the amount of p-value greater than threshold indicates strong evidence for the null hypothesis.
 2. There was limited COVID-19 raw data available for us to analyse. As more information becomes available, there could be more datasets available for furhter study. We would like to continue our research into how different industries were impacted by the pandemic. 
 
 # Contributers 
