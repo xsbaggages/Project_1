@@ -1,4 +1,4 @@
-# Project 1 - Unemployment in Australia 2020 
+# Project 1 - Covid-19 impact on Unemployment in Australia
 
 ![COVID](Project_Image/COVID.png)
 
